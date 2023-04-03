@@ -100,4 +100,19 @@ On cloud ->
    public,private,hybrid
    Hardware on rent like IAAS(Infrastructure as a service)
    we do not need to invest on maintainance,security,storage,developing.......
-----------------------------------
+-----------------------
+seggregation of duties 
+-----------------------
+https://docs.oracle.com/cd/E29542_01/doc.1111/e14309/segduties.htm
+-----------------------
+standard/custom schema
+-----------------------
+https://docs.oracle.com/cd/E26401_01/doc.122/e22961/T302934T458264.htm
+------------------
+web page and forms
+------------------
+MVC
+______
+http://blog.itpub.net/26687597/viewspace-1204880/     ||(MVC)|| 
+------
+
