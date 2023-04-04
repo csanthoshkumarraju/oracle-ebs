@@ -115,4 +115,6 @@ MVC
 ______
 http://blog.itpub.net/26687597/viewspace-1204880/     ||(MVC)|| 
 ------
-
+Oracle ebs interview questions.
+------------- 
+https://mindmajix.com/oracle-ebs-interview-questions#ebs
