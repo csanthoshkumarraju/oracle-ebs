@@ -1,0 +1,151 @@
+Oracle EBS / R12/ 
+
+https://www.youtube.com/@oratrainings
+--------------------------------------------------------------------
+Incidents and security management
+--------------------------------------------------------------------
+
+Creating an EBS user and assigning responsibilities
+
+https://www.oreilly.com/library/view/oracle-e-business-suite/9781849687126/ch02s08.html
+
+Access Control with Oracle User Management
+
+https://docs.oracle.com/cd/E18727_01/doc.121/e12843/T156458T185608.htm
+
+Segregation Of Duties
+
+https://appsiansecurity.com/use-cases/oracle-segregation-of-duties/#:~:text=What%20is%20Segregation%20of%20Duties,risk%20of%20fraud%20and%20error.
+
+--------------------------------------------------------------------
+DB Application layers
+--------------------------------------------------------------------
+
+custom schema
+
+https://www.oreilly.com/library/view/oracle-e-business-suite/9781849687126/ch08s04.html#:~:text=The%20schema%20is%20linked%20to,any%20patches%20that%20are%20applied.
+
+https://subscription.packtpub.com/book/business-&-other/9781849687126/8/ch08lvl1sec82/creating-a-custom-schema
+
+Database standard Schemas
+
+https://docs.oracle.com/cd/E26401_01/doc.122/e22952/T156458T659606.htm
+
+Custom Application top
+
+https://doyensys.com/blogs/step-by-step-creating-a-custom-application-top-for-ebs-12-2-using-ad-splice/
+
+Customization Standards
+
+https://docs.oracle.com/cd/E18727_01/doc.121/e12897/T302934T458264.htm
+
+--------------------------------------------------------------------
+User Interface
+--------------------------------------------------------------------
+
+Oracle E-Business Suite and Oracle Forms
+
+https://smartbear.com/product/testcomplete/enterprise-packaged-applications/oracle-forms/#:~:text=Oracle%20Forms%20is%20a%20Java,technologies%20in%20a%20business%20ecosystem.
+
+HTML-Based Applications webpage
+
+--------------------------------------------------------------------
+EBS Basics
+--------------------------------------------------------------------
+
+Business group
+
+http://appselangovan.blogspot.com/2014/05/defining-business-group-in-hrms.html
+
+Legal entity
+
+http://oracleapps88.blogspot.com/2017/02/oracle-applications-r12-legal-entities_5.html
+
+General ledger
+
+http://oracleapps88.blogspot.com/p/ap.html
+
+Operating unit
+
+https://docs.oracle.com/cd/E18727_01/doc.121/e13423/T443823T443826.htm#:~:text=Operating%20units%20are%20assigned%20to%20ledgers%20and%20a%20default%20legal,MO%3A%20Security%20Profile%20profile%20option.
+
+4cs of R12
+
+https://docs.oracle.com/cd/E18727_01/doc.121/e13424/T433149T433154.htm#:~:text=Note%3A%20The%204%20C%27s%20is,%2C%20Currency%2C%20and%20accounting%20Convention.
+
+Accounts Receivable
+
+https://docs.oracle.com/cd/E59116_01/doc.94/e58747/ch_over_accnt_recv.htm#WEAAR108
+
+ACCOUNTS PAYABLE
+
+https://monumentdata.com/oracle-services/oracle-ebs-financial-modules-consulting/
+
+R12 Oracle Project Accounting
+
+https://know-oracle.com/r12-oracle-project-accounting-few-basic-concepts/#:~:text=Oracle%20PA%20has%20provided%20three,as%20one%20or%20more%20assets.
+
+--------------------------------------------------------------------
+AOL  Application Object Library
+--------------------------------------------------------------------
+
+http://oracleapps88.blogspot.com/2014/06/oracle-application-object-library-aol.html
+
+Lookups
+
+https://docs.oracle.com/cd/E18727-01/doc.121/e13589/T316898T316918.htm
+
+Creating a value set
+
+https://subscription.packtpub.com/book/application-development/9781849684842/1/ch01lvl1sec05/creating-a-value-set
+
+Defining a concurrent program
+
+https://subscription.packtpub.com/book/application-development/9781849684842/1/ch01lvl1sec02/defining-a-concurrent-program
+
+User Profiles
+
+https://docs.oracle.com/cd/E26401_01/doc.122/e22953/T174296T202994.htm
+
+Descriptive Flexfields
+
+https://erpschools.com/erps/articles/descriptive-flexfields
+
+http://oracleapps88.blogspot.com/2016/12/oracle-applications-flexfield-details_25.html
+
+Responsibility
+
+https://www.geeksforgeeks.org/how-to-define-a-new-responsibility-in-oracle-apps/
+
+Menu
+
+https://erpschools.com/erps/articles/menu-in-oracle-apps
+
+FUNCTIONS IN ORACLE AOL
+
+https://www.oracleerpappsguide.com/2011/04/functions-in-oracle-aol.html
+
+--------------------------------------------------------------------
+RICEW   Reports, Interfaces, Conversions and Enhancements
+--------------------------------------------------------------------
+
+Creating Report
+
+https://www.codeproject.com/Articles/857489/Creating-Report-using-Report-Builder-and-Oracle-DB
+
+Oracle EBS Interface
+
+https://help.deltek.com/product/CostpointSFT/2.0/GA/oracle_ebs_interface.htm#:~:text=The%20Oracle%20EBS%20interface%20can,tasks%20that%20have%20the%20pa_tasks.
+
+Interfaces and Conversions
+
+https://erpschools.com/erps/interface/interfaces-and-conversions
+
+ORACLE E-BUSINESS SUITE EXTENSIONS
+
+https://www.insum.ca/services/oracle-e-business-suite-extensions/
+
+Forms Personalization
+
+https://erpschools.com/erps/articles/forms-personalization-tutorial
+
